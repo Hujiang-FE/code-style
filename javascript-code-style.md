@@ -1,4 +1,4 @@
-% Javascript编码规范 (1.0)
+# 沪江Javascript编码规范 (1.0)
 
 
 ### 简介
